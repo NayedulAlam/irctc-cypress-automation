@@ -15,20 +15,6 @@
       "GENDER": "Male",
       "SEAT": "No Preference",
       "FOOD": "No Food"
-    },
-    {
-      "NAME": "Najema Alam",
-      "AGE": 36,
-      "GENDER": "Female",
-      "SEAT": "No Preference",
-      "FOOD": "No Food"
-    },
-    {
-      "NAME": "Nasirul Alam",
-      "AGE": 16,
-      "GENDER": "Male",
-      "SEAT": "No Preference",
-      "FOOD": "No Food"
     }
   ],
   "__valid_coaches__": "SL | 2A | 3A | 3E | 1A | CC | EC | 2S",
