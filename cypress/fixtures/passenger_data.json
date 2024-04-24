@@ -1,25 +1,32 @@
 {
-  "TRAIN_NO": "12559",
+  "TRAIN_NO": "13414",
   "TRAIN_COACH": "SL",
   "TRAVEL_DATE": "18/05/2024",
-  "SOURCE_STATION": "BSBS",
+  "SOURCE_STATION": "NDLS",
   "BOARDING_STATION": null,
-  "DESTINATION_STATION": "NDLS",
+  "DESTINATION_STATION": "MLDT",
   "TATKAL": false,
   "PREMIUM_TATKAL": false,
   "UPI_ID_CONFIG": "",
   "PASSENGER_DETAILS": [
     {
-      "NAME": "Shivam Pandey",
-      "AGE": 26,
+      "NAME": "Rafiqul Alam",
+      "AGE": 47,
       "GENDER": "Male",
       "SEAT": "No Preference",
       "FOOD": "No Food"
     },
     {
-      "NAME": "Shivam Dubey",
-      "AGE": 26,
+      "NAME": "Najema Alam",
+      "AGE": 36,
       "GENDER": "Female",
+      "SEAT": "No Preference",
+      "FOOD": "No Food"
+    },
+    {
+      "NAME": "Nasirul Alam",
+      "AGE": 16,
+      "GENDER": "Male",
       "SEAT": "No Preference",
       "FOOD": "No Food"
     }
